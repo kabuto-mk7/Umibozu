@@ -9,6 +9,8 @@
     <a href="https://github.com/kabuto-mk7/Jade/issues">Report Bug</a>
     .
     <a href="https://github.com/kabuto-mk7/Jade/issues">Request Feature</a>
+    .
+  <a href="outlook.office.com/owa/lsbu.ac.uk">Download</a>
   </p>
 </p> 
 
