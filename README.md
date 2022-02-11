@@ -6,11 +6,11 @@
     A PlayStation 1 Styled Horror Game made with C#
     <br/>
     <br/>
-    <a href="https://github.com/kabuto-mk7/Jade/issues">Report Bug</a>
+    <a href="https://github.com/kabuto-mk7/Umibozu/issues">Report Bug</a>
     .
-    <a href="https://github.com/kabuto-mk7/Jade/issues">Request Feature</a>
+    <a href="https://github.com/kabuto-mk7/Umibozu/issues">Request Feature</a>
     .
-  <a href="outlook.office.com/owa/lsbu.ac.uk">Download</a>
+  <a href="https://kbto.itch.io/umibozu">Download</a>
   </p>
 </p> 
 
@@ -62,7 +62,7 @@ This game is hosted on itch.io if you would like to play it.
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/kabuto-mk7/Jade/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/kabuto-mk7/Umibozu/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 
